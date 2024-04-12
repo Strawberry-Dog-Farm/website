@@ -1,4 +1,27 @@
 ---
-layout: home
-author_profile: true
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.4"
+  overlay_image: /assets/images/radishes.jpg
+excerpt: '**Exploring ways to nourish our community, the environment, and ourselves through sustainable, mindful farming**'
+feature_row:
+  - image_path: /assets/images/squash.jpg
+    alt: "Photo of three squashes on a truck bed"
+    title: "Social Media"
+    excerpt: 'Instagram is currently the best way to keep up with our farm and see what we are up to!'
+    url: "https://www.instagram.com/strawberry.dog.farm/"
+    btn_label: "Check out our Instagram"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/new_entry.png
+    alt: "Logo of the New Entry Sustainable Farming Project"
+    title: "New Entry"
+    excerpt: 'Read about the New Entry Sustainable Farming Project and their awesome farming incubator program!'
+    url: "https://nesfp.nutrition.tufts.edu/farmer-training/incubator-farm/program-details"
+    btn_label: "New Entry Website"
+    btn_class: "btn--primary"
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
