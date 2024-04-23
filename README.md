@@ -1,5 +1,5 @@
 # website
-[strawberrydogfarm.com](strawberrydogfarm.com) public website
+[strawberrydogfarm.com](https://strawberrydogfarm.com) public website
 
 This site is built with [Jekyll](https://jekyllrb.com/) and [the Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/). Theck out those projects' documentation for info about customizing the site.
 
