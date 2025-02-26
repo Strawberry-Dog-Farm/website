@@ -3,4 +3,5 @@ title: Contact
 permalink: /contact/
 layout: single
 ---
-[contact@strawberrydogfarm.com](mailto:contact@strawberrydogfarm.com)
+We'd love to hear from you!
+[laura@strawberrydogfarm.com](mailto:laura@strawberrydogfarm.com)
