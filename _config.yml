@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title:            Strawbery Dog Farm
-email:            contact@strawberrydogfarm.com
-description:      Strawbery Dog Farm website
+email:            laura@strawberrydogfarm.com
+description:      Strawberry Dog Farm website
 baseurl:          "" # the subpath of your site, e.g. /blog
 url:              "https://strawberrydogfarm.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Strawberry-Dog-Farm
@@ -62,7 +62,7 @@ author:
   avatar           : "/assets/logoS.png"
   bio              : 
   location         : "Beverly, MA"
-  email            : contact@strawberrydogfarm.com
+  email            : laura@strawberrydogfarm.com
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
