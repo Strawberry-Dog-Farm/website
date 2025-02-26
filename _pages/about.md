@@ -8,7 +8,7 @@ Hi friends! I’m Laura, the founder of Strawberry Dog Farm.
 
 ![Laura at Strawberry Dog Farm](/assets/images/laura.jpg){: .uniform-image}
 
-My whole life, I’ve been enchanted by the magic of plants. Some of my favorite childhood memories involve growing things: “helping” my dad grow a giant watermelon; eating tiny spring onions straight from my grandmother’s garden; planting a sunflower in kindergarten that grew so tall we had to chop it down with an ax.
+My whole life, I’ve been enchanted by **the magic of plants**. Some of my favorite childhood memories involve growing things: “helping” my dad grow a giant watermelon, eating tiny spring onions straight from my grandmother’s garden, planting a sunflower in kindergarten that grew so tall we had to chop it down with an ax.
 
 ![Baby Laura with her sister Kerri, their dad, and a giant watermelon](/assets/images/babylaura_bigwatermelon.png)
 
