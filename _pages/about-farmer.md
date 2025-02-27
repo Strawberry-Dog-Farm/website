@@ -1,6 +1,6 @@
 ---
-title: About
-permalink: /about/
+title: About the Farmer
+permalink: /about-farmer/
 layout: single
 ---
 
