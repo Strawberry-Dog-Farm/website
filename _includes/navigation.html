@@ -1,16 +1,13 @@
 <nav>
   <ul>
-    {% for item in site.data.navigation.main %}
-      <li>
-        <a href="{{ item.url }}">{{ item.title }}</a>
-        {% if item.sublinks %}
-          <ul>
-            {% for sublink in item.sublinks %}
-              <li><a href="{{ sublink.url }}">{{ sublink.title }}</a></li>
-            {% endfor %}
-          </ul>
-        {% endif %}
-      </li>
-    {% endfor %}
+    <li><a href="/">Home</a></li>
+    <li>
+      <a href="/about/">About</a>
+      <ul>
+        <li><a href="/about-farm/">About the Farm</a></li>
+        <li><a href="/about-farmer/">About the Farmer</a></li>
+      </ul>
+    </li>
+    <li><a href="/contact/">Contact</a></li>
   </ul>
 </nav>
