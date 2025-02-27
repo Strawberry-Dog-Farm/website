@@ -3,5 +3,10 @@ main:
     url: /
   - title: About
     url: /about/
+    sublinks:
+      - title: About the Farm
+        url: /about-farm/
+      - title: About the Farmer
+        url: /about-farmer/
   - title: Contact
     url: /contact/
