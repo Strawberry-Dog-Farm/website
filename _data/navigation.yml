@@ -2,7 +2,7 @@ main:
   - title: Home
     url: /
   - title: About
-    url: /about/
+    url: /about-farm/
     sublinks:
       - title: About the Farm
         url: /about-farm/
