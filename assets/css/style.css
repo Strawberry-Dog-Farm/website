@@ -30,3 +30,25 @@ nav ul li ul li a {
 nav ul li ul li a:hover {
   background: #555;
 }
+
+
+/* Style for the figure element */
+figure {
+  margin: 20px 0; /* Add some space around the figure */
+  text-align: center; /* Center the image and caption */
+}
+
+/* Style for the image inside the figure */
+figure img {
+  max-width: 100%; /* Ensure the image is responsive */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 10px; /* Optional: Add rounded corners */
+}
+
+/* Style for the figcaption */
+figcaption {
+  margin-top: 10px; /* Add space between the image and caption */
+  font-style: italic; /* Make the caption italic */
+  color: #555; /* Use a muted color for the caption */
+  font-size: 0.9em; /* Make the caption slightly smaller */
+}
