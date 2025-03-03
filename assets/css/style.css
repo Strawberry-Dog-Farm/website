@@ -1,63 +1,14 @@
-$link-color: #8d282c;
-$body-color: #0000ff;
-$background-color: white;
-$text-color: black;
-$masthead-link-color: #8d282c;
-$masthead-background-color: #ffcece;
-
-@charset "utf-8";
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
-
-/* Basic styling for the navigation bar */
-nav ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  background: #333;
-  display: flex;
-}
-
-nav ul li {
-  position: relative;
-}
-
-nav ul li a {
-  display: block;
-  padding: 10px 20px;
-  color: white;
-  text-decoration: none;
-}
-
-/* Style for subheadings (hidden by default) */
-nav ul li ul {
-  display: none;
-  position: absolute;
-  top: 100%;
+/* Ensure the navigation bar stays at the top of the page */
+nav {
+  position: fixed; /* Fix the navigation bar at the top */
+  top: 0;
   left: 0;
-  background: #444;
-  padding: 0;
-  min-width: 150px;
-}
-
-/* Show subheadings on hover */
-nav ul li:hover > ul {
-  display: block;
-}
-
-/* Style for subheading items */
-nav ul li ul li {
   width: 100%;
+  z-index: 1000; /* Ensure it stays on top of other content */
+  background: #333; /* Match the background color of the navigation bar */
 }
 
-nav ul li ul li a {
-  padding: 10px;
-  color: white;
-  text-decoration: none;
-}
-
-/* Hover effect for subheading items */
-nav ul li ul li a:hover {
-  background: #555;
+/* Add some padding to the body to prevent content from being hidden behind the fixed navigation bar */
+body {
+  padding-top: 60px; /* Adjust this value based on the height of your navigation bar */
 }
