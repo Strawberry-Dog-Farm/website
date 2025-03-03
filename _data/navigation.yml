@@ -1,12 +1,9 @@
 main:
   - title: Home
     url: /
-  - title: About
+  - title: About the Farm
     url: /about-farm/
-    sublinks:
-      - title: About the Farm
-        url: /about-farm/
-      - title: About the Farmer
-        url: /about-farmer/
+  - title: About the Farmer
+    url: /about-farmer/
   - title: Contact
     url: /contact/
