@@ -7,10 +7,18 @@ We're excited to now offer local pickup or delivery for our produce! Delivery is
 
 If you're prefer ordering over email, please send your order to [laura@strawberrydogfarm.com](mailto:laura@strawberrydogfarm.com).
 
-![A pound of jalapenos.](/assets/images/jalapenos.jpeg)
-![A pound of poblanos.](/assets/images/poblanos_square.jpg)
-![A pound of mini bell peppers.](/assets/images/minibells.jpg)
-![A pint of Sun Gold cherry tomatoes.](/assets/images/sungolds.jpg)
+
+<div id="images">
+        <img src="/assets/images/jalapenos.jpeg" height="400px">
+        <div class="caption">A pound of jalapenos.</div>
+        <img src="/assets/images/poblanos_square.jpg" height="400px"> 
+        <div class="caption">A pound of poblanos</div>
+        <img src="/assets/images/minibells.jpg" height="400px">
+        <div class="caption">A pound of assorted mini bell peppers.</div>
+        <img src="/assets/images/sungolds.jpg" height="400px"> 
+        <div class="caption">A pint of Sun Gold cherry tomatoes</div>
+</div>
+
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
