@@ -1,14 +1,14 @@
 ---
 title: Vegetables 2025
-permalink: /Vegetables-2025/
+permalink: /vegetables-2025/
 layout: single
 ---
 We're excited to now offer local pickup or delivery for our produce! Delivery is free for orders over $50 within 5 miles of Somerville, MA. Pickup is available near Winter Hill in Somerville or in Beverly, MA. There is an optional delivery fee for orders under $50 that can be added on to any order. 
 
 If you're prefer ordering over email, please send your order to [laura@strawberrydogfarm.com](mailto:laura@strawberrydogfarm.com).
 
-![A pound of jalapenos.](/assets/images/jalapenos.jpeg){height=200}
-![A pound of poblanos.](/assets/images/poblanos_square.jpg){width=200}
+![A pound of jalapenos.](/assets/images/jalapenos.jpeg)
+![A pound of poblanos.](/assets/images/poblanos_square.jpg)
 ![A pound of mini bell peppers.](/assets/images/minibells.jpg)
 ![A pint of Sun Gold cherry tomatoes.](/assets/images/sungolds.jpg)
 
