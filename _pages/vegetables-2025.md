@@ -3,9 +3,9 @@ title: Vegetables 2025
 permalink: /vegetables-2025/
 layout: single
 ---
-We're excited to now offer local pickup or delivery for our produce! Delivery is free for orders over $50 within 5 miles of Somerville, MA. Pickup is available near Winter Hill in Somerville or in Beverly, MA. There is an optional delivery fee for orders under $50 that can be added on to any order. 
+We're excited to now offer local pickup or delivery for our produce! Delivery is free for orders over $50 within 5 miles of Somerville, MA. Pickup is available near Winter Hill in Somerville or in Beverly, MA. There is an optional delivery fee for orders under $50 that can be added onto any order. 
 
-If you're prefer ordering over email, please send your order to [laura@strawberrydogfarm.com](mailto:laura@strawberrydogfarm.com).
+If you'd prefer ordering over email, please send your order to [laura@strawberrydogfarm.com](mailto:laura@strawberrydogfarm.com).
 
 
 <div id="images">
