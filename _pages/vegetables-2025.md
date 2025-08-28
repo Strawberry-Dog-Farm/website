@@ -9,13 +9,13 @@ If you're prefer ordering over email, please send your order to [laura@strawberr
 
 
 <div id="images">
-        <img src="/assets/images/jalapenos.jpeg" height="400px">
+        <img src="/assets/images/jalapenos.jpeg" width="500px">
         <div class="caption">A pound of jalapenos.</div>
-        <img src="/assets/images/poblanos_square.jpg" height="400px"> 
+        <img src="/assets/images/poblanos_square.jpg" width="500px"> 
         <div class="caption">A pound of poblanos</div>
-        <img src="/assets/images/minibells.jpg" height="400px">
+        <img src="/assets/images/minibells.jpg" width="500px">
         <div class="caption">A pound of assorted mini bell peppers.</div>
-        <img src="/assets/images/sungolds.jpg" height="400px"> 
+        <img src="/assets/images/sungolds.jpg" width="500px"> 
         <div class="caption">A pint of Sun Gold cherry tomatoes</div>
 </div>
 
