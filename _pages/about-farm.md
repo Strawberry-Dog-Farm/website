@@ -10,11 +10,11 @@ Our mission is to grow **delicious, nutritious food** for our community while gr
 
 ![Laura and friends sorting Swiss chard.](/assets/images/swiss_chard_and_friends.jpg)
 
-Strawberry Dog Farm is a diverse growing operation producing fresh vegetables, herbs, and flowers. Located in Beverly, MA, we lease half an acre from the New Entry Sustainable Farming Project, an organization that supports new farmers in building sustainable, equitable food systems.
+Strawberry Dog Farm is a diverse growing operation producing fresh vegetables, herbs, and flowers. We started in 2023 in Beverly, MA, where we leased a quarter-acre plot from the New Entry Sustainable Farming Project, an organization that supports new farmers in building sustainable, equitable food systems. In 2026, we moved to Oxford, MA.
 
 ![Zinnias growing in the field](/assets/images/zinnias_in_field.jpg)
 
-Since our start in 2023 on a quarter-acre plot, we’ve grown steadily—expanding to half an acre in 2024. As we head into our third growing season in 2025, we’re excited to continue deepening our roots in the community and the land.
+Since our start in 2023 on a quarter-acre plot, we’ve grown steadily—expanding to half an acre in 2024. As we head into our fourth growing season in 2026, we’re excited to continue deepening our roots in the community and the land.
 
 ![Baby plants growing in the greenhouse.](/assets/images/seed_trays.jpg)
 ![Greg planting some seeds using the Jang seeder.](/assets/images/greg_jang.jpg)
