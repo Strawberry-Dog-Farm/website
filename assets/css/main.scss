@@ -9,6 +9,21 @@ $masthead-link-color: #cc5a40;
 $masthead-link-color-hover: darken(#cc5a40, 15%);
 $masthead-background-color: #fffbf0;
 
+// Make link underline match link color
+a {
+  text-decoration-color: $link-color;
+  text-decoration-thickness: 1px;
+  text-decoration-skip-ink: auto;
+}
+
+.masthead a {
+  text-decoration-color: $masthead-link-color;
+}
+
+.masthead a:hover {
+  text-decoration-color: $masthead-link-color-hover;
+}
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
