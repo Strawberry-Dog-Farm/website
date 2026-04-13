@@ -16,7 +16,7 @@ While thru-hiking the Appalachian Trail with my now-husband in 2019, I experienc
 
 ![Laura and Joe submitting Mount Katahdin](/assets/images/katahdin1.jpg)
 
-Later, I found the New Entry Sustainable Farming Project, which allowed me to try my hand at farming on a quarter-acre lot in Beverly, MA, in 2023. I’m now going into my third year, growing on a half-acre. I couldn’t have done it without the help of my incredible family and friends, particularly my husband Joe. I’m so excited to see what this season has in store for us. If you’d like to follow along, check out our [Instagram](https://www.instagram.com/strawberry.dog.farm/) or sign up for our newsletter below!
+Later, I found the New Entry Sustainable Farming Project, which allowed me to try my hand at farming on a quarter-acre lot in Beverly, MA, in 2023. I’m now going into my third year, growing on a half-acre. I couldn’t have done it without the help of my incredible family and friends, particularly my husband Joe. 2025 was my final season at New Entry, and 2026 marks the first year we'll be growing on our own land! I’m so excited to see what this season has in store for us. There's a lot to do to get up and growing again. If you’d like to follow along, check out our [Instagram](https://www.instagram.com/strawberry.dog.farm/) or sign up for our newsletter below!
 
 <a href="#" onclick="ml('show', 'uByRaX', true); return false;">Click here to sign up for our newsletter!</a>
 
