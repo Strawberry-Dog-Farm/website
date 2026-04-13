@@ -1,0 +1,96 @@
+---
+title: Cut-Flower CSA 2026
+permalink: /CSA-2026/
+layout: single
+---
+
+
+We’re so excited to announce our Cut-Flower CSA, launching this August! Every other week, you’ll receive a beautiful, organically grown bouquet straight from our farm to your home. Whether you’re treating yourself or gifting someone special, it’s the perfect way to celebrate summer’s abundance.
+
+Here’s what you can look forward to:
+
+✨ Price: $140
+
+✨ Start Date: Early August through mid September
+
+✨ What’s Included: A fresh, handpicked bouquet every other week—never the same arrangement twice!
+
+✨ 4 bouqets total, spread out over eight weeks—because our bouquets often last longer than 7 days!
+
+✨ Pickup Options: Winter Hill Brewing Company or Strawberry Dog Farm (Oxford, MA)
+
+
+We’re daydreaming about the vibrant colors and fragrant flowers we’ll be growing just for you. And here’s where you come in: **buying early is a *huge* help to us!** You’re literally providing seed money to make all this hard work possible.
+
+As a thank-you for your early support, we’re offering an Early Bird Special until June 1st:
+
+🌻 Price: $126 for the full share (that’s 10% off!)
+
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1QzLqeLnuGWKNpHBhsY2QpnM"
+  publishable-key="pk_live_51QwsgTLnuGWKNpHBFDphWC96c6Ih9dirWkg70cPJSDmUbPoRc75PnM04ThtpgIF6RpWmbq3DhnJGARJ6pbwweZb000L4boj08o"
+>
+</stripe-buy-button>
+<stripe-buy-button
+  buy-button-id="buy_btn_1R1TAnLnuGWKNpHB8hS4xlh2"
+  publishable-key="pk_live_51QwsgTLnuGWKNpHBFDphWC96c6Ih9dirWkg70cPJSDmUbPoRc75PnM04ThtpgIF6RpWmbq3DhnJGARJ6pbwweZb000L4boj08o"
+>
+</stripe-buy-button>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1R6yuMLnuGWKNpHB3u83L9SR"
+  publishable-key="pk_live_51QwsgTLnuGWKNpHBFDphWC96c6Ih9dirWkg70cPJSDmUbPoRc75PnM04ThtpgIF6RpWmbq3DhnJGARJ6pbwweZb000L4boj08o"
+>
+</stripe-buy-button>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1RVdTgLnuGWKNpHBlsaCUieo"
+  publishable-key="pk_live_51QwsgTLnuGWKNpHBFDphWC96c6Ih9dirWkg70cPJSDmUbPoRc75PnM04ThtpgIF6RpWmbq3DhnJGARJ6pbwweZb000L4boj08o"
+>
+</stripe-buy-button>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1RVdT7LnuGWKNpHBMdagHMvR"
+  publishable-key="pk_live_51QwsgTLnuGWKNpHBFDphWC96c6Ih9dirWkg70cPJSDmUbPoRc75PnM04ThtpgIF6RpWmbq3DhnJGARJ6pbwweZb000L4boj08o"
+>
+</stripe-buy-button>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1RVdR7LnuGWKNpHBfFOouNS7"
+  publishable-key="pk_live_51QwsgTLnuGWKNpHBFDphWC96c6Ih9dirWkg70cPJSDmUbPoRc75PnM04ThtpgIF6RpWmbq3DhnJGARJ6pbwweZb000L4boj08o"
+>
+</stripe-buy-button>
+
+But wait—there’s more! To celebrate the launch, we’re raffling off one free CSA share! Here’s how to enter:
+
+1. Sign up for our email list (we promise we’ll be too busy farming to flood your inbox).
+
+2. That’s it! You’re entered.
+
+<a href="#" onclick="ml('show', 'uByRaX', true); return false;">Click here to sign up for our newsletter!</a>
+
+<!-- MailerLite Universal -->
+<script>
+  (function(w,d,e,u,f,l,n){
+    w[f]=w[f]||function(){(w[f].q=w[f].q||[]).push(arguments);};
+    l=d.createElement(e),l.async=1,l.src=u,
+    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);
+  })(window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+  ml('account', '1353404');
+</script>
+<!-- End MailerLite Universal -->
+
+Deadline to enter: May 15th at 11:59 PM EST.
+
+If you win the raffle but have already purchased a CSA share, you’ll be reimbursed.
+
+
+Don’t miss out on this chance to bring a little extra beauty into your summer—and maybe even snag a free share! Let’s grow something beautiful together.
+
+With excitement and gratitude,
+
+Laura
