@@ -14,15 +14,15 @@ $masthead-link-color-hover: darken(#cc5a40, 15%);
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-$masthead-background-color: #fffbf0 ! important;
-// your styles here
- .masthead__menu { 
-  color: red;
-}
 
 .uniform-image {
     width: 300px; /* Set a fixed width */
     height: auto; /* Maintain aspect ratio */
     border-radius: 10px; /* Optional: Add rounded corners */
     object-fit: cover; /* Ensure the image covers the area without distortion */
+}
+
+// Make the logo bigger in the header
+.site-logo img {
+  max-height: 10rem !important;
 }
