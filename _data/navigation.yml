@@ -5,5 +5,7 @@ main:
     url: /about-farm/
   - title: About the Farmer
     url: /about-farmer/
+  - title: Photos
+    url: /photos/
   - title: Contact
     url: /contact/
