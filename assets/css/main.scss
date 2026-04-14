@@ -15,6 +15,10 @@ $masthead-link-color-hover: darken(#cc5a40, 15%);
 @import "minimal-mistakes"; // main partials
 
 $masthead-background-color: #fffbf0 ! important;
+// your styles here
+ .masthead__menu { 
+  color: red;
+}
 
 .uniform-image {
     width: 300px; /* Set a fixed width */
