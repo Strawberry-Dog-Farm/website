@@ -25,7 +25,7 @@ baseurl:          "" # the subpath of your site, e.g. /blog
 url:              "https://strawberrydogfarm.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Strawberry-Dog-Farm
 locale:           "en-US"
-logo:             "assets/SDF-Profile-Photo-Flipped.jpg"
+logo:             "assets/SDF-Main-Logo-09.png" #"assets/SDF-Profile-Photo-Flipped.jpg"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.25.0"
