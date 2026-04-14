@@ -25,6 +25,10 @@ gallery:
     image_path: /assets/images/goth_corn.jpg
     alt: "Montana Morado corn"
     title: "Montana Morado corn"
+  - url: /assets/images/spring_peeper.jpg
+    image_path: /assets/images/spring_peeper.jpg
+    alt: "Spring peeper in a celosia"
+    title: "Spring peeper in a celosia"
   - url: /assets/images/habaneros.jpg
     image_path: /assets/images/habaneros.jpg
     alt: "Habaneros"
@@ -33,10 +37,6 @@ gallery:
     image_path: /assets/images/laura_and_friends.jpg
     alt: "Joe, Greg, Cara, and Laura"
     title: "Joe, Greg, Cara, and Laura"
-  - url: /assets/images/spring_peeper.jpg
-    image_path: /assets/images/spring_peeper.jpg
-    alt: "Spring peeper in a celosia"
-    title: "Spring peeper in a celosia"
   - url: /assets/images/sungolds.jpg
     image_path: /assets/images/sungolds.jpg
     alt: "A pint of sungold tomatoes"
@@ -48,4 +48,4 @@ gallery:
     
 ---
 
-{% include gallery caption="Click any photo to view full size." %}
+{% include gallery layout="half" caption="Click any photo to view full size." %}
