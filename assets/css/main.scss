@@ -22,9 +22,9 @@ $masthead-link-color-hover: darken(#cc5a40, 15%);
     object-fit: cover; /* Ensure the image covers the area without distortion */
 }
 
-.greedy-nav {
-    background-color: #fffbf0 !important;
-}
+//.greedy-nav {
+//    background-color: #fffbf0 !important; // if you want to change the background color of masthead
+//}
 
 // Make the logo bigger in the header
 .site-logo img {
