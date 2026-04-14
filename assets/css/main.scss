@@ -9,6 +9,10 @@ $masthead-link-color: #cc5a40;
 $masthead-link-color-hover: darken(#cc5a40, 15%);
 $masthead-background-color: #fffbf0 ! important;
 
+.masthead {
+  background-color: #fffbf0 !important;
+}
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
