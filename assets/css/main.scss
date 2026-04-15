@@ -22,12 +22,16 @@ $nav-link-color-hover: darken(#cc5a40, 15%);
     object-fit: cover; /* Ensure the image covers the area without distortion */
 }
 
-.greedy-nav a:hover {
-  border-bottom-color: darken(#cc5a40, 15%) !important; /* To change the underline color when you hover*/
-  //background-color: #fffbf0 !important; /* if you want to change the background color of masthead */
+//.greedy-nav a:hover {
+    //background-color: #fffbf0 !important; /* if you want to change the background color of masthead */
+//}
+
+// Make the underline of links the dark red
+.greedy-nav .visible-links a:before {
+    background: darken(#cc5a40, 15%) !important;
 }
 
 // Make the logo bigger in the header
 .site-logo img {
-  max-height: 6rem !important;
+    max-height: 6rem !important;
 }
