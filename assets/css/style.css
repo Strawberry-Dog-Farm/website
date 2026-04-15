@@ -28,7 +28,7 @@ nav ul li ul li a {
 
 /* Hover effect for dropdown menu items */
 nav ul li ul li a:hover {
-  background: #555;
+  background: 204E32; /*#555;*/
 }
 
 
