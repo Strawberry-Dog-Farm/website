@@ -32,15 +32,12 @@ $nav-link-color-hover: $masthead-link-color-hover;
 }
 
 // Change the color of the hamburger menu and the X to close
-.greedy-nav__toggle:hover .navicon{
+.greedy-nav__toggle:hover {
+  .navicon,
+  .navicon:before,
+  .navicon:after {
     background: $masthead-link-color-hover !important;
-}
-.greedy-nav__toggle:hover .navicon:before{
-    background: $masthead-link-color-hover !important;
-}
-.greedy-nav__toggle:hover .navicon:after {
-    background: $masthead-link-color-hover !important;
-}
+  }
 
 // Make the logo bigger in the header
 .site-logo img {
