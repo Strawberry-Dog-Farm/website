@@ -56,7 +56,7 @@ gallery:
     title: "Cosmos"
 
   - url: /assets/images/chard.jpeg
-    image_path: /assets/images/chard.jepg
+    image_path: /assets/images/chard.jpeg
     alt: "Swiss chard"
     title: "Swiss chard"
     
@@ -81,7 +81,7 @@ gallery:
     title: "Laura with two baskets of peppers"
     
   - url: /assets/images/beets.jpeg
-    image_path: /assets/images/jalapeno_basket.jpeg
+    image_path: /assets/images/beets.jpeg
     alt: "Chioggia beets (left) and golden beets (right)"
     title: "Chioggia beets (left) and golden beets (right)"
 ---
