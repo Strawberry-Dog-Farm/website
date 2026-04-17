@@ -1,12 +1,12 @@
 main:
   - title: Home
     url: /
+  - title: CSA 2026
+    url: /CSA-2026/
   - title: About the Farm
     url: /about-farm/
   - title: About the Farmer
     url: /about-farmer/
-  - title: CSA 2026
-    url: /CSA-2026/
   - title: Photos
     url: /photos/
   - title: Contact
