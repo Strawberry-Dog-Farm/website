@@ -54,7 +54,36 @@ gallery:
     image_path: /assets/images/white_cosmos.jpg
     alt: "Cosmos"
     title: "Cosmos"
+
+  - url: /assets/images/chard.jpeg
+    image_path: /assets/images/chard.jepg
+    alt: "Swiss chard"
+    title: "Swiss chard"
     
+  - url: /assets/images/marigolds.jpeg
+    image_path: /assets/images/marigolds.jpeg
+    alt: "Giant marigolds"
+    title: "Giant marigolds"
+    
+  - url: /assets/images/mini_bells.jpeg
+    image_path: /assets/images/mini_bells.jpeg
+    alt: "Mini bell peppers"
+    title: "Mini bell peppers"
+    
+  - url: /assets/images/jalapeno_basket.jpeg
+    image_path: /assets/images/jalapeno_basket.jpeg
+    alt: "A basket of jalapenos"
+    title: "A basket of jalapenos"
+
+  - url: /assets/images/laura_peppers.jpeg
+    image_path: /assets/images/laura_peppers.jpeg
+    alt: "Laura with two baskets of peppers"
+    title: "Laura with two baskets of peppers"
+    
+  - url: /assets/images/beets.jpeg
+    image_path: /assets/images/jalapeno_basket.jpeg
+    alt: "Chioggia beets (left) and golden beets (right)"
+    title: "Chioggia beets (left) and golden beets (right)"
 ---
 
 {% include gallery layout="half" caption="Click any photo to view full size." %}
