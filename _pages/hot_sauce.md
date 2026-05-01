@@ -4,7 +4,7 @@ permalink: /Hot-Sauce-2026/
 layout: single
 ---
 
-Last fall, we partnered with [Craic Sauce](https://craicsauce.com/) to create a single-source hot sauce together. The hot sauce is a fermented verde sauce with a husk cherry sungold tomato vinegar that's fruity and tangy, with a little heat. It's perfect on tacos or grain bowls. All of the produce was grown at New Entry Sustainable Farming Project in Beverly MA. Most was grown by Strawberry Dog but we also got a little help from our friends, neighbors, and mentors, Leah from New Entry and Anna and Siedric from Revival Road Farm.
+Last fall, we partnered with [Craic Sauce](https://craicsauce.com/) to create a single-source hot sauce together. The hot sauce is a fermented verde sauce with a husk cherry sungold tomato vinegar that's fruity and tangy, with a little heat. It's perfect on tacos or grain bowls. All of the produce was grown at New Entry Sustainable Farming Project in Beverly MA. Most was grown by Strawberry Dog but we also got a little help from our friends, neighbors, and mentors, Leah from [New Entry](https://nesfp.org/) and Anna and Siedric from [Revival Road Farm](https://www.revivalroadfarm.org/).
 
 ![Strawberry Dog Craic Hot Sauce](/assets/images/1-StrawberryDog_Craic.jpeg){: height="200px"}
 
