@@ -16,6 +16,8 @@ Last fall, we partnered with [Craic Sauce](https://craicsauce.com/) to create a 
 
 **Size:** 5 oz
 
+**Price:** $10 per bottle, plus shipping. Free pickup available at Strawberry Dog Farm in Oxford, MA.
+
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
